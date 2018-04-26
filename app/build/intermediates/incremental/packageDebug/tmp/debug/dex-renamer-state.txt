@@ -1,0 +1,4 @@
+#Thu Apr 26 15:49:50 CST 2018
+base.0=D\:\\Users\\12567\\Documents\\homework\\android\\lab3\\SQLiteTest\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\15
+path.0=classes.dex
+renamed.0=classes.dex
